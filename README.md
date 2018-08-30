@@ -1,23 +1,17 @@
-# This is the data for my blog
+# Supernatural Language Processing
 
-It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll)
-into a static site whenever I push this repository to GitHub.
+This is the source code for the [Supernatural Language Processing](https://supernlp.github.io) blog, where we blog about recent updates in NLP and machine learning.
 
-I was tired of having my blog posts end up in a database off on some remote
-server. That is backwards. I've lost valuable posts that way. I want to author
-my posts locally in Textile or Markdown. My blog should be easily stylable and
-customizable any way I please. It should take care of creating a feed for me.
-And most of all, my site should be stored on GitHub so that I never lose data
-again.
+## Contributors
+
+Our growing list of contributors currently includes (alphabetically):
+
+* Artur Kulmizev (CLCG, University of Groningen)
+* Mostafa Abdou (CoAStaL, University of Copenhagen)
+* Vinit Ravishankar (LTG, University of Oslo)
 
 ## License
 
-The following directories and their contents are Copyright Tom Preston-Werner.
-You may not reuse anything therein without my permission:
+All content under the ``_posts/`` directory is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-* \_posts/
-* images/
-
-All other directories and files are MIT Licensed. Feel free to use the HTML and
-CSS as you please. If you do use them, a link back to
-http://github.com/mojombo/jekyll would be appreciated, but is not required.
+All other directories and files are released under the MIT license. We are grateful to the developers of http://github.com/mojombo/jekyll for their open-source HTML and CSS, that we have used.
