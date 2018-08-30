@@ -4,6 +4,11 @@
 /*
 /*****************************************************************************/
 
+/* Imports */
+
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
 /* Global Reset */
 
 * {
@@ -17,7 +22,7 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  font: 13.34px 'Quicksand', helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -27,6 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  font-size: 200% ;
   margin-bottom: 1em;
 }
 
@@ -35,7 +41,9 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #2C81B2;
+  text-decoration: none;
+  font-family: 'Quicksand';
 }
 
 a:hover {
@@ -43,7 +51,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #2C81B2;
 }
 
 table {
@@ -87,13 +95,15 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #B22327;
+  font-size: 150%;
   font-weight: bold;
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
+  font-family: 'Inconsolata', arial;
 }
 
   .site .title a {
-    color: #a00;
+    color: #B22327;
     text-decoration: none;
   }
 
@@ -114,6 +124,26 @@ ul.posts {
   .site .meta {
     color: #aaa;
   }
+
+	.site .navbar {
+		color: blue;
+		margin-bottom: 2em;
+	}
+
+	.site .navbar a {
+		margin-right: 2%;
+	}
+
+
+	#col_wrapper {
+		display: table;
+		table-layout: fixed;
+		width: 90%;
+	}
+
+	#col_wrapper div {
+		display: table-cell;
+	}
 
   .footer {
     font-size: 80%;
