@@ -121,8 +121,25 @@ ul.posts {
     color: black;
   }
 
-  .site .meta {
+
+	.site #meta {
+		margin-top: -2%;
+		width: 100%;
+		display: table;
+	}
+
+
+  .site #meta * {
+		display: table-cell;
     color: #aaa;
+  }
+  
+  .site #meta .author {
+		text-align: left;
+  }
+  
+	.site #meta .date {
+		text-align: right;
   }
 
 	.site .navbar {
