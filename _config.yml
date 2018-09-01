@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Supernatural Language Hargle
 tagline:          'A Jekyll theme'
 description:      'We blog about NLP and machine learning'
-
+baseurl:          /
 
 paginate:         5
 
