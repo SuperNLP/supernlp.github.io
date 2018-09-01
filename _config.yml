@@ -1,15 +1,15 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Supernatural Language Hargle_3
 tagline:          'A Jekyll theme'
 description:      'We blog about NLP and machine learning'
-baseurl:          'asdqwe/'
+baseurl:          /
 
 paginate:         5
 
