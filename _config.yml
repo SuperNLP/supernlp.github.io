@@ -8,7 +8,7 @@ permalink:        pretty
 title:            Supernatural Language Final
 tagline:          'A Jekyll theme'
 description:      'We blog about NLP and machine learning'
-baseurl:          /
+baseurl:          ''
 
 paginate:         5
 
