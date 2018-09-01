@@ -345,6 +345,24 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
 }
 
+.about-wrap {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 20px;
+	margin-top: 5rem;
+}
+
+.about-wrap * {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.about-col {
+	padding-left: 5rem;
+	padding-right: 5rem;
+}
+
 .date-author-wrap {
 	display: table;
 	width: 100%;
