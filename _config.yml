@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Supernatural Language Hargle_2
+title:            Supernatural Language Hargle_3
 tagline:          'A Jekyll theme'
 description:      'We blog about NLP and machine learning'
-baseurl:          ''
+baseurl:          'asdqwe/'
 
 paginate:         5
 
