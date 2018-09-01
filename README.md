@@ -14,4 +14,4 @@ Our growing list of contributors currently includes (alphabetically):
 
 All content under the ``_posts/`` directory is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All other directories and files are released under the MIT license. We are grateful to the developers of http://github.com/mojombo/jekyll for their open-source HTML and CSS, that we have used.
+All other directories and files are released under the MIT license. 
