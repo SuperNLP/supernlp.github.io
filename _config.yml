@@ -5,8 +5,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Supernatural Language Final
-tagline:          'A Jekyll theme'
+title:            Supernatural Language Processing
 description:      'We blog about NLP and machine learning'
 baseurl:          ''
 
