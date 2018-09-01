@@ -3,10 +3,9 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Supernatural Language Hargle_3
+title:            Supernatural Language Final
 tagline:          'A Jekyll theme'
 description:      'We blog about NLP and machine learning'
 baseurl:          /
