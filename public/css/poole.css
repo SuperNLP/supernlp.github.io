@@ -347,7 +347,7 @@ tbody tr:nth-child(odd) th {
 
 .about-wrap {
 	display: grid;
-	grid-template-columns: repeat(2, 1fr);
+	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
 	grid-gap: 20px;
 	margin-top: 5rem;
 }
