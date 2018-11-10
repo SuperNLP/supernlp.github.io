@@ -7,7 +7,7 @@ title: About
   <div class="about-col">
    <img class="about-img" src="/assets/img/vin.jpg" width="200px" height="200px">
    <h3><span align="center">Vinit Ravishankar</span></h3>
-   <span align="center>University of Oslo</span>
+   <span align="center">University of Oslo</span>
   </div>
   <div class="about-col">
    <img class="about-img" src="/assets/img/mo.jpg" width="200px" height="200px">
