@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contributers
+title: Contributors
 ---
 
 <div class="about-wrap">
