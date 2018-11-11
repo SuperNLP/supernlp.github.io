@@ -7,11 +7,8 @@ permalink:        pretty
 # Setup
 title:            Supernatural Language Processing
 description:      'We blog about natural language processing and machine learning.'
-baseurl:          /
+baseurl:	  /
 layout:		  single
-url:		  https://supernlp.github.io
-
-paginate:         20
 
 github:
   repo:           https://github.com/supernlp/supernlp.github.io
