@@ -6,8 +6,8 @@ permalink:        pretty
 
 # Setup
 title:            Supernatural Language Processing
-description:      'We blog about NLP and machine learning.'
-baseurl:          /
+description:      'We blog about natural language processing and machine learning.'
+baseurl:          ''
 
 paginate:         20
 
