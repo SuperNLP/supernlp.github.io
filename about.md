@@ -3,6 +3,12 @@ layout: page
 title: About
 ---
 
+Thanks for checking out Supernatural Language Processing (SuperNLP)! This blog is intended for us (Vinit, Mostafa, Artur) to discuss our research projects, recap conferences/workshops we've attended, and conjecture wildly about the wide world of NLP! Feel free to get in touch with any of us if you have any questions about the blog or anything we're working on in general!
+
+---
+
+*About us*
+
 <img src="/assets/img/vin.jpg" width="200px" height="200px">
 
 **Vinit Ravishankar**: PhD Candidate at the University of Oslo, working on NLP.
