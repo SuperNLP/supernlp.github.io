@@ -8,7 +8,6 @@ permalink:        pretty
 title:            Supernatural Language Processing
 description:      'We blog about natural language processing and machine learning.'
 baseurl:	  /
-layout:		  single
 
 github:
   repo:           https://github.com/supernlp/supernlp.github.io

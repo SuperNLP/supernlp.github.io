@@ -3,35 +3,91 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<!-- <div class="posts"> -->
+<!--   {% for post in paginator.posts %} -->
+<!--   <div class="post"> -->
+<!--     <h1 class="post-title"> -->
+<!--       <a href="{{ post.url }}"> -->
+<!--         {{ post.title }} -->
+<!--       </a> -->
+<!--     </h1> -->
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<!--     <span class="post-date">{{ post.date | date_to_string }}</span> -->
 
-    {{ post.content }}
+<!--     {{ post.content }} -->
+<!--   </div> -->
+<!--   {% endfor %} -->
+<!-- </div> -->
+
+<!-- <div class="pagination"> -->
+<!--   {% if paginator.next_page %} -->
+<!--     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a> -->
+<!--   {% else %} -->
+<!--     <span class="pagination-item older">Older</span> -->
+<!--   {% endif %} -->
+<!--   {% if paginator.previous_page %} -->
+<!--     {% if paginator.page == 2 %} -->
+<!--       <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a> -->
+<!--     {% else %} -->
+<!--       <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a> -->
+<!--     {% endif %} -->
+<!--   {% else %} -->
+<!--     <span class="pagination-item newer">Newer</span> -->
+<!--   {% endif %} -->
+<!-- </div> -->
+
+
+<div class="home">
+  <div class="post-list">
+
+    {% for post in site.posts limit:5%}
+
+    <article class="post_card post">
+      <header class="post_header">
+        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+      </header>
+      <div class="post_excerpt">
+        <p>
+          {% if post.description %}
+          {{ post.description}}
+          {% else %}
+          {{ post.excerpt }}
+          {% endif %} 
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
+        </p> 
+      </div>
+      <footer class="post_meta">
+
+
+        {% if post.location %}
+        <span class="author-location">
+          <div data-icon="ei-location"></div>
+          <a href="https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
+        </span>
+        {% endif %}
+        <!--
+        {% for category in post.categories %}
+        <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
+          <data data-icon="ei-archive"></data>
+          {{category}}</a>
+        {% endfor %}
+        -->
+        <!--
+        {% if post.author %}
+        <span class="author_meta">
+          <img src="{{site.baseurl}}/assets/img/{{post.author}}.jpg"></img>
+          <span>David Lin</span>
+        </span>
+        {% endif %}
+        -->
+        <!--p class="readmore">
+          <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
+        </p-->
+      </footer>
+      <hr/>
+    </article>
+    {% endfor %}
+    <div class="pagination older-post"><a href="./archive"><data data-icon="ei-arrow-right"></data> Archive  </a></div>
   </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
 </div>
