@@ -34,6 +34,16 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
+
+html h1 {
+    font-family: "Parchment", "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+html a {
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    color: #990000;
+}
+
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -57,7 +67,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #990000;
 }
 @media (min-width: 48em) {
   .sidebar {
