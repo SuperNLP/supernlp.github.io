@@ -23,3 +23,9 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+<div class="comments">
+  {% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+  {% endif %}
+</div>
