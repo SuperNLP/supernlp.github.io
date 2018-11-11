@@ -9,5 +9,23 @@ Thanks for checking out Supernatural Language Processing (SuperNLP)! This blog i
 
 ---
 
-*Contributors*
+##Contributors
+
+####Vinit Ravinshankar
+
+<img src="/assets/img/vin.jpg" alt="vin" height="200" width="200">
+
+PhD Candidate at the University of Oslo. Works on NLP.
+
+####Mostafa Abdou
+
+<img src="/assets/img/mo.jpg" alt="mo" height="200" width="200">
+
+PhD Candidate at the University of Copenhagen. Works on Multilingual Natural Language Understanding (NLU).
+
+####Artur Kulmizev
+
+<img src="/assets/img/ak.jpg" alt="mo" height="200" width="200">
+
+PhD Candidate at the Uppsala University (starting in January 2019). Works on Multilingual NLP and Universal Dependencies.
 
