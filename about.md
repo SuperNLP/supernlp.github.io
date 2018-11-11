@@ -7,12 +7,12 @@ title: Contributors
   <div class="about-col">
    <img class="about-img" src="/assets/img/vin.jpg" width="200px" height="200px">
    <h3><span align="center">Vinit Ravishankar</span></h3>
-   <span align="center">PhD Candidate at the University of Oslo</span>
+   <span align="center">PhD Candidate at the University of Oslo, working on NLP.</span>
   </div>
   <div class="about-col">
    <img class="about-img" src="/assets/img/mo.jpg" width="200px" height="200px">
    <h3><span align="center">Mostafa Abdou</span></h3>
-   <span align="center">Grad. Student at the University of Copenhagen. Works on Multilingual NLU.</span>
+   <span align="center">Grad. student at the University of Copenhagen. Works on Multilingual NLU.</span>
   </div>
 </div>
 
