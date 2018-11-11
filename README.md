@@ -1,22 +1,17 @@
-[![](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/wild-flame)
+# Supernatural Language Processing
 
-# jekyll-simple
+This is the source code for the [Supernatural Language Processing](https://supernlp.github.io) blog, where we blog about recent updates in NLP and machine learning.
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+## Contributors
 
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
+Our growing list of contributors currently includes (alphabetically):
 
-Supposedly, this could work with Japanese as well but never had a chance to try.
+* Artur Kulmizev (Computational Linguistics group, Uppsala University)
+* Mostafa Abdou (CoAStaL, University of Copenhagen)
+* Vinit Ravishankar (LTG, University of Oslo)
 
-## Story behind this theme
+## License
 
-It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
+All content under the ``_posts/`` directory is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
-
-So mobile goes first, then the macOS.
-
-## ^-^
-
-You can click the button [Say Thanks!](https://saythanks.io/to/wild-flame) at the first of README if you use/like my project. :D
+All other directories and files are released under the MIT license. 
