@@ -1,11 +1,39 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+<img src="/assets/img/vin.jpg" width="200px" height="200px">
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+**Vinit Ravishankar**: PhD Candidate at the University of Oslo, working on NLP.
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+<img src="/assets/img/mo.jpg" width="200px" height="200px">
+
+**Mostafa Abdou**: PhD candidate at the University of Copenhagen, working on Multilingual NLU.
+
+<img src="/assets/img/mo.jpg" width="200px" height="200px">
+
+**Artur Kulmizev**: PhD candidate at the Uppsala University, working on Multilingual NLP and syntax.
+
+<!---
+<div class="about-wrap">
+  <div class="about-col">
+   <img class="about-img" src="/assets/img/vin.jpg" width="200px" height="200px">
+   <h3><span align="center">Vinit Ravishankar</span></h3>
+   <span align="center">PhD Candidate at the University of Oslo, working on NLP.</span>
+  </div>
+  <div class="about-col">
+   <img class="about-img" src="/assets/img/mo.jpg" width="200px" height="200px">
+   <h3><span align="center">Mostafa Abdou</span></h3>
+   <span align="center">Grad. student at the University of Copenhagen. Works on Multilingual NLU.</span>
+  </div>
+</div>
+
+<div class="about-wrap">
+  <div class="about-col">
+   <img class="about-img" src="https://www.thedailymash.co.uk/wp-content/uploads/hip425-1-425x239.jpg" width="200px" height="200px">
+   <h3><span align="center">Artur Kulmizev</span></h3>
+   <span align="center">Uppsala University</span>
+  </div>
+</div>
+-->
