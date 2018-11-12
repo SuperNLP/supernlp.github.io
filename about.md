@@ -11,19 +11,19 @@ Thanks for checking out Supernatural Language Processing (SuperNLP)! This blog i
 
 ## Contributors
 
-#### [Vinit Ravinshankar](vinit.ravishankar@gmail.com)
+#### [Vinit Ravinshankar](mailto:vinit.ravishankar@gmail.com)
 
 <img src="/assets/img/vin.jpg" alt="vin" height="200" width="200">
 
 PhD Candidate at the University of Oslo. Works on NLP.
 
-#### [Mostafa Abdou](abdou.di.ku.dk)
+#### [Mostafa Abdou](mailto:abdou.di.ku.dk)
 
 <img src="/assets/img/mo.jpg" alt="mo" height="200" width="200">
 
 PhD Candidate at the University of Copenhagen. Works on Multilingual Natural Language Understanding (NLU).
 
-#### [Artur Kulmizev](akulmizev@gmail.com)
+#### [Artur Kulmizev](mailto:akulmizev@gmail.com)
 
 <img src="/assets/img/ak.jpg" alt="mo" height="200" width="200">
 
