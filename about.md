@@ -11,7 +11,7 @@ Thanks for checking out Supernatural Language Processing (SuperNLP)! This blog i
 
 ## Contributors
 
-#### [Vinit Ravinshankar](mailto:vinit.ravishankar@gmail.com)
+#### [Vinit Ravishankar](mailto:vinit.ravishankar@gmail.com)
 
 <img src="/assets/img/vin.jpg" alt="vin" height="200" width="200">
 
