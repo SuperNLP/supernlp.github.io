@@ -25,12 +25,12 @@ PhD Candidate at the University of Copenhagen. Works on Multilingual Natural Lan
 
 #### [Artur Kulmizev](mailto:akulmizev@gmail.com)
 
-<img src="/assets/img/ak.jpg" alt="mo" height="200" width="200">
+<img src="/assets/img/ak.jpg" alt="AK" height="200" width="200">
 
 PhD Candidate at the Uppsala University (starting in January 2019). Works on Multilingual NLP and Universal Dependencies.
 
 #### [Rahul Aralikatte](mailto:rahul@di.ku.dk)
 
-<img src="/assets/img/rahul.jpg" alt="mo" height="200" width="200">
+<img src="/assets/img/rahul.jpg" alt="RA" height="200" width="200">
 
 PhD Candidate at the University of Copenhagen. 
