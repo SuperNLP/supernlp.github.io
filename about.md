@@ -33,4 +33,4 @@ PhD Candidate at the Uppsala University (starting in January 2019). Works on Mul
 
 <img src="/assets/img/rahul.jpg" alt="mo" height="200" width="200">
 
-PhD Candidate at the Uppsala University (starting in January 2019). Works on Multilingual NLP and Universal Dependencies.
+PhD Candidate at the University of Copenhagen. 
