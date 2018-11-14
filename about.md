@@ -37,7 +37,7 @@ PhD Candidate at the University of Copenhagen (CoASTaL NLP).
 
 #### [Joachim Bingel](mailto:bingel@di.ku.dk)
 
-<img src="/assets/img/joachim.jpg" alt="jb" height="300" width="200">
+<img src="/assets/img/joachim.jpg" alt="jb" height="280" width="200">
 
 Post-doctotal fellow at the University of Copenhagen (CoASTaL NLP). 
 
