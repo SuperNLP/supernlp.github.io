@@ -260,12 +260,12 @@ a.sidebar-nav-item:focus {
 }
 
 .sharebuttons {
-  margin: 0 auto 0 auto;
+  margin: auto auto auto auto;
 }
 
 .sharebuttons ul {
-  margin: 20px 0 0 0;
-  text-align: center;
+  margin: 20px 0px 20px 20px;
+  text-align: left;
 }
 
 .sharebuttons ul li {
@@ -273,7 +273,8 @@ a.sidebar-nav-item:focus {
 }
 
 .sharebuttons ul li a {
-  text-decoration: none;
+    text-decoration: none;
+    margin: 0px 0px 20px 20px;
 }
 
 .sharebuttons ul li svg {
