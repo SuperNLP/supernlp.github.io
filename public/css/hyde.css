@@ -37,7 +37,7 @@ html {
 
 html h1{
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
-    color: #7a0000;
+    color: #511515;
 }
 
 html a{
@@ -67,7 +67,7 @@ html a{
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #7a0000;
+  background-color: #511515;
 }
 @media (min-width: 48em) {
   .sidebar {
