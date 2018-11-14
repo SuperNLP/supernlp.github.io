@@ -5,7 +5,7 @@ category: about
 description: Supernatural Language Processing
 ---
 
-Welcome to Supernatural Language Processing (SuperNLP)! Here we will blog about various topics central to NLP and machine learning, with a focus on representation learning, interpretability, cross-lingual methods, and much more. We'll also attempt to provide coverage of conferences/workshops we've attended and give sneak peaks into research project's we're working on. Feel free to [tweet](https://twitter.com/supernlpblog)) or [email](mailto:supernlpblog@gmail.com) us if you have any questions about the blog.
+Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about various topics central to NLP and machine learning, with a focus on representation learning, interpretability, cross-lingual methods, and much more. We'll also attempt to provide coverage of conferences/workshops we've attended and give sneak peaks into research project's we're working on. Feel free to [tweet](https://twitter.com/supernlpblog) or [email](mailto:supernlpblog@gmail.com) us if you have any questions about the blog!
 
 ---
 
