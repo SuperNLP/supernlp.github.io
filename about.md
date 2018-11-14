@@ -21,7 +21,7 @@ PhD Candidate at the University of Oslo. Works on NLP.
 
 <img src="/assets/img/mo.jpg" alt="mo" height="200" width="200">
 
-PhD Candidate at the University of Copenhagen. Works on Multilingual Natural Language Understanding (NLU).
+PhD Candidate at the University of Copenhagen (CoASTaL NLP). Works on Multilingual Natural Language Understanding (NLU).
 
 #### [Artur Kulmizev](mailto:akulmizev@gmail.com)
 
@@ -33,4 +33,11 @@ PhD Candidate at the Uppsala University (starting in January 2019). Works on Mul
 
 <img src="/assets/img/rahul.jpg" alt="RA" height="200" width="200">
 
-PhD Candidate at the University of Copenhagen. 
+PhD Candidate at the University of Copenhagen (CoASTaL NLP). 
+
+#### [Joachim Bingel](mailto:bingel@di.ku.dk)
+
+<img src="/assets/img/joachim.jpg" alt="jb" height="200" width="200">
+
+Post-doctotal fellow at the University of Copenhagen (CoASTaL NLP). 
+
