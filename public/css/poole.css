@@ -428,3 +428,23 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/* author page */
+.about-wrap {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+	grid-gap: 20px;
+	margin-top: 5rem;
+}
+
+.about-wrap * {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.about-col {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+

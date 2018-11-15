@@ -11,32 +11,48 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
 
 ## Contributors
 
-#### [Vinit Ravishankar](mailto:vinit.ravishankar@gmail.com)
+<div class="about-wrap">
+  <div class="about-col">
+    <img class="about-img" src="/assets/img/vin.jpg" alt="vin" height="200" width="200">
+    <h3><span align="center" markdown="1">
+    [Vinit Ravishankar](mailto:vinit.ravishankar@gmail.com)
+    </span></h3>
+    PhD student at the University of Oslo (starting Dec. 2018). Works on multilingual NLP.
+  </div>
 
-<img src="/assets/img/vin.jpg" alt="vin" height="200" width="200">
+  <div class="about-col">
+    <img class="about-img" src="/assets/img/mo.jpg" alt="mo" height="200" width="200">
+    <h3><span align="center" markdown="1">
+    [Mostafa Abdou](mailto:abdou@di.ku.dk)
+    </span></h3>
+    PhD candidate at the University of Copenhagen (CoASTaL NLP). Works on multilingual Natural Language Understanding (NLU).
+  </div>
+  
+  <div class="about-col">
+    <img class="about-img" src="/assets/img/ak.jpg" alt="ak" height="200" width="200">
+    <h3><span align="center" markdown="1">
+    [Artur Kulmizev](mailto:akulmizev@gmail.com)
+    </span></h3>
+    PhD candidate at Uppsala University (starting Jan. 2019). Works on multilingual NLP and Universal Dependencies.
+  </div>
 
-PhD Candidate at the University of Oslo. Works on NLP.
+</div>
 
-#### [Mostafa Abdou](mailto:abdou.di.ku.dk)
+<div class="about-wrap">
+  <div class="about-col">
+    <img class="about-img" src="/assets/img/rahul.jpg" alt="rahul" height="200" width="200">
+    <h3><span align="center" markdown="1">
+    [Rahul Aralikatte](mailto:rahul@di.ku.dk)
+    </span></h3>
+    PhD candidate at the University of Copenhagen (CoASTaL NLP).
+  </div>
+  
+  <div class="about-col">
+    <img class="about-img" src="/assets/img/joachim.jpg" alt="jb" height="200" width="200">
+    <h3><span align="center" markdown="1">
+    [Joachim Bingel](mailto:bingel@di.ku.dk)
+    </span></h3>
+    Post-doctoral fellow at the University of Copenhagen (CoASTaL NLP).
+  </div>
+</div>
 
-<img src="/assets/img/mo.jpg" alt="mo" height="200" width="200">
-
-PhD Candidate at the University of Copenhagen (CoASTaL NLP). Works on Multilingual Natural Language Understanding (NLU).
-
-#### [Artur Kulmizev](mailto:akulmizev@gmail.com)
-
-<img src="/assets/img/ak.jpg" alt="AK" height="200" width="200">
-
-PhD Candidate at the Uppsala University (starting in January 2019). Works on Multilingual NLP and Universal Dependencies.
-
-#### [Rahul Aralikatte](mailto:rahul@di.ku.dk)
-
-<img src="/assets/img/rahul.jpg" alt="rahul" height="200" width="200">
-
-PhD Candidate at the University of Copenhagen (CoASTaL NLP). 
-
-#### [Joachim Bingel](mailto:bingel@di.ku.dk)
-
-<img src="/assets/img/joachim.jpg" alt="jb" height="200" width="200">
-
-Post-doctotal fellow at the University of Copenhagen (CoASTaL NLP). 
