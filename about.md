@@ -27,7 +27,10 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
     </span></h3>
     PhD candidate at the University of Copenhagen (CoASTaL NLP). Works on multilingual Natural Language Understanding (NLU).
   </div>
-  
+
+</div>
+
+<div class="about-wrap">  
   <div class="about-col">
     <img class="about-img" src="/assets/img/ak.jpg" alt="ak" height="200" width="200">
     <h3><span align="center" markdown="1">
@@ -36,9 +39,6 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
     PhD candidate at Uppsala University (starting Jan. 2019). Works on multilingual NLP and Universal Dependencies.
   </div>
 
-</div>
-
-<div class="about-wrap">
   <div class="about-col">
     <img class="about-img" src="/assets/img/rahul.jpg" alt="rahul" height="200" width="200">
     <h3><span align="center" markdown="1">
@@ -46,7 +46,9 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
     </span></h3>
     PhD candidate at the University of Copenhagen (CoASTaL NLP).
   </div>
-  
+</div>
+
+<div class="about-wrap">  
   <div class="about-col">
     <img class="about-img" src="/assets/img/joachim.jpg" alt="jb" height="200" width="200">
     <h3><span align="center" markdown="1">
