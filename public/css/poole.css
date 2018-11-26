@@ -448,3 +448,17 @@ a.pagination-item:hover {
 	padding-right: 1rem;
 }
 
+.span-full {
+	text-decoration: underline;	
+	text-decoration-style: double;
+	color: #3F23A6;
+}
+
+.span-init {
+	text-decoration: underline;
+}
+
+
+span:hover {
+	text-decoration: none;
+}
