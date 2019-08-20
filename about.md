@@ -17,7 +17,7 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
     <h3><span align="center" markdown="1">
     [Vinit Ravishankar](mailto:vinit.ravishankar@gmail.com)
     </span></h3>
-    PhD student at the University of Oslo (starting Dec. 2018). Works on multilingual NLP.
+    PhD student at the University of Oslo (starting Dec. 2018). Works on interpretability in a multilingual context.
   </div>
 
   <div class="about-col">
