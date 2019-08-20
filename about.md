@@ -32,7 +32,7 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
 
 <div class="about-wrap">  
   <div class="about-col">
-    <img class="about-img" src="/assets/img/ak.jpg" alt="ak" height="200" width="200">
+    <img class="about-img" src="/assets/img/ak.png" alt="ak" height="200" width="200">
     <h3><span align="center" markdown="1">
     [Artur Kulmizev](mailto:artur.kulmizev@lingfil.uu.se)
     </span></h3>
