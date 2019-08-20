@@ -39,13 +39,13 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
     PhD candidate at Uppsala University. Works on multilingual NLP and Universal Dependencies.
   </div>
 
-  <!-- <div class="about-col"> -->
-  <!--   <img class="about-img" src="/assets/img/rahul.jpg" alt="rahul" height="200" width="200"> -->
-  <!--   <h3><span align="center" markdown="1"> -->
-  <!--   [Rahul Aralikatte](mailto:rahul@di.ku.dk) -->
-  <!--   </span></h3> -->
-  <!--   PhD candidate at the University of Copenhagen (CoASTaL NLP). -->
-  <!-- </div> -->
+  <div class="about-col">
+    <img class="about-img" src="/assets/img/rahul.jpg" alt="rahul" height="200" width="200">
+    <h3><span align="center" markdown="1">
+    [Rahul Aralikatte](mailto:rahul@di.ku.dk)
+    </span></h3>
+    PhD candidate at the University of Copenhagen (CoASTaL NLP).
+  </div>
 </div>
 
 <!-- <div class="about-wrap">   -->
