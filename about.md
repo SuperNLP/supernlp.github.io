@@ -61,7 +61,7 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
     <h3><span align="center" markdown="1">
     [Daniel Hershcovich](mailto:hershcovich@di.ku.dk)
     </span></h3>
-    PhD candidate at the University of Copenhagen (CoASTaL NLP).
+    Post-doctoral fellow at the University of Copenhagen (CoASTaL NLP).
   </div>
 </div>
 
