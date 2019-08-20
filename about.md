@@ -5,7 +5,7 @@ category: about
 description: Supernatural Language Processing
 ---
 
-Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about various topics central to NLP and machine learning, with a focus on representation learning, interpretability, cross-lingual methods, and much more. We'll also attempt to provide coverage of conferences/workshops we've attended and give sneak peeks into research project's we're working on. Feel free to [tweet](https://twitter.com/supernlpblog) or [email](mailto:supernlpblog@gmail.com) us if you have any questions about the blog!
+Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about various topics central to NLP and machine learning, with a focus on representation learning, interpretability, cross-lingual methods, and much more. We'll also attempt to provide coverage of conferences/workshops we've attended and give sneak peaks into research projects we're working on. Feel free to [tweet](https://twitter.com/supernlpblog) or [email](mailto:supernlpblog@gmail.com) us if you have any questions about the blog!
 
 ---
 
@@ -34,9 +34,9 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
   <div class="about-col">
     <img class="about-img" src="/assets/img/ak.jpg" alt="ak" height="200" width="200">
     <h3><span align="center" markdown="1">
-    [Artur Kulmizev](mailto:akulmizev@gmail.com)
+    [Artur Kulmizev](mailto:artur.kulmizev@lingfil.uu.se)
     </span></h3>
-    PhD candidate at Uppsala University (starting Jan. 2019). Works on multilingual NLP and Universal Dependencies.
+    PhD candidate at Uppsala University. Works on multilingual NLP and Universal Dependencies.
   </div>
 
   <div class="about-col">
@@ -48,13 +48,20 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
   </div>
 </div>
 
-<div class="about-wrap">  
-  <div class="about-col">
-    <img class="about-img" src="/assets/img/joachim.jpg" alt="jb" height="200" width="200">
-    <h3><span align="center" markdown="1">
-    [Joachim Bingel](mailto:bingel@di.ku.dk)
-    </span></h3>
-    Post-doctoral fellow at the University of Copenhagen (CoASTaL NLP).
-  </div>
-</div>
+<!-- <div class="about-wrap">   -->
+<!--   <div class="about-col"> -->
+<!--     <img class="about-img" src="/assets/img/joachim.jpg" alt="jb" height="200" width="200"> -->
+<!--     <h3><span align="center" markdown="1"> -->
+<!--     [Joachim Bingel](mailto:bingel@di.ku.dk) -->
+<!--     </span></h3> -->
+<!--     Post-doctoral fellow at the University of Copenhagen (CoASTaL NLP). -->
+<!--   </div> -->
+<!--     <div class="about-col"> -->
+<!--     <img class="about-img" src="/assets/img/daniel.png" alt="daniel" height="200" width="200"> -->
+<!--     <h3><span align="center" markdown="1"> -->
+<!--     [Daniel Hershcovich](mailto:hershcovich@di.ku.dk) -->
+<!--     </span></h3> -->
+<!--     PhD candidate at the University of Copenhagen (CoASTaL NLP). -->
+<!--   </div> -->
+<!-- </div> -->
 
