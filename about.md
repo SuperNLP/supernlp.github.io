@@ -20,13 +20,6 @@ Welcome to Supernatural Language Processing (SuperNLP)! Here we'll blog about va
     PhD student at the University of Oslo (starting Dec. 2018). Works on interpretability in a multilingual context.
   </div>
 
-  <div class="about-col">
-    <img class="about-img" src="/assets/img/mo.jpg" alt="mo" height="200" width="200">
-    <h3><span align="center" markdown="1">
-    [Mostafa Abdou](mailto:abdou@di.ku.dk)
-    </span></h3>
-    PhD candidate at the University of Copenhagen (CoASTaL NLP). Works on multilingual Natural Language Understanding (NLU).
-  </div>
 
 </div>
 
