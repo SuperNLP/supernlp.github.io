@@ -7,7 +7,6 @@ This is the source code for the [Supernatural Language Processing](https://super
 Our growing list of contributors currently includes (alphabetically):
 
 * Artur Kulmizev (Computational Linguistics group, Uppsala University)
-* Mostafa Abdou (CoAStaL, University of Copenhagen)
 * Vinit Ravishankar (LTG, University of Oslo)
 
 ## License
